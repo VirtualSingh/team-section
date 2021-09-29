@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'TT Lakes Neue Condensed';
+    src: local('TT Lakes Neue Condensed Extra Light'), local('TT-Lakes-Neue-Condensed-Extra-Light'),
+        url('TTLakesNeueCond-XLight.woff2') format('woff2'),
+        url('TTLakesNeueCond-XLight.woff') format('woff'),
+        url('TTLakesNeueCond-XLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: local('TT Lakes Neue DemiBold'), local('TT-Lakes-Neue-DemiBold'),
+        url('TTLakesNeue-DBold.woff2') format('woff2'),
+        url('TTLakesNeue-DBold.woff') format('woff'),
+        url('TTLakesNeue-DBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
